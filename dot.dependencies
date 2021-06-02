@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+    "branch": "lineage-18.1",
+    "remote": "github"
+  },
+  {
+    "repository": "le520/android_kernel_xiaomi_ursa",
+    "target_path": "kernel/xiaomi/ursa"
+    "branch": "dot11"
+    "remote": "github"
+  }
+]
